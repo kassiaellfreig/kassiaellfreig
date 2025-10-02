@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Kássia Guedes
 
-**`Cibersecurity / IA / DevSecOps`**
+**`Embaixadora de IA Stefanini | Cybersecurity | IAM | Cloud Computing | AWS`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software, atuando com foco em Cibersegurança, Desenvolvimento Web e Inteligência Artificial. Tenho experiência prática em análise de vulnerabilidades, segurança de redes, uso de Python, Git/GitHub e metodologias ágeis como Scrum e Kanban. Atuei como Analista de Projeto Aerodinâmico e atualmente trabalho com análise de fraudes financeiras. Possuo certificações em áreas como Cloud, DevOps, Criptografia, IA Generativa e mais. Estou sempre em busca de soluções tecnológicas eficientes, éticas e centradas em dados.
+Profissional de tecnologia em formação, com certificações em Cibersegurança, Inteligência Artificial e Cloud Computing. Experiência prática em IAM (Identity and Access Management), análise de riscos, identificação de vulnerabilidades, segurança de redes e criptografia. Certificada pela Cisco, AWS Educate, Microsoft e Forage (simulações em projeto de solução IAM e análise de riscos em cibersegurança). Competências em Python, HTML, CSS, JavaScript, IA Generativa, Machine Learning, CI/CD, Scrum e AWS.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/k%C3%A1ssia-e-f-098789129/">
