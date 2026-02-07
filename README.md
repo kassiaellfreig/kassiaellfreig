@@ -120,22 +120,41 @@ Profissional de tecnologia em formação, com certificações em Cibersegurança
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kassiaellfreig&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiaellfreig&theme=tokyonight&layout=compact&custom_title=Linguagens" 
-  />
-
+<p align="left">
+  <!-- Stack de Segurança -->
+  <img src="https://img.shields.io/badge/-Nessus-008000?logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/-Metasploit-000000?logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/-OSINT-0078D7?logo=google&logoColor=white" alt="OSINT" />
+  <img src="https://img.shields.io/badge/-Log_Analysis-444444?logo=elasticsearch&logoColor=white" alt="Log Analysis" />  
+  <!-- Stack de IA -->
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
+
+### 📈 Atividade Técnica
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kassiaellfreig&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs&include_all_commits=true&locale=pt-br" 
+    height="160" 
+    alt="Estatísticas Gerais" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kassiaellfreig&theme=tokyonight&hide_border=false" 
+    height="160" 
+    alt="Consistência de Estudos" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiaellfreig&theme=tokyonight&layout=compact&langs_count=4&hide=Jupyter%20Notebook,HTML,CSS" 
+    height="160" 
+    alt="Linguagens Relevantes" 
+  />
+</p>
+
+### 🎯 Aplicações Técnicas em Destaque
+
+| Área | Projeto | Resultado Prático |
+|------|---------|-------------------|
+| **🛡️ Segurança** | [Análise Forense - Deloitte](https://github.com/kassiaellfreig/Artigos-e-estudos-de-caso/blob/main/analiseDeLogs.md) | Detecção de automação via padrões temporais em logs; conclusão: acesso interno sem bypass de VPN |
+| **🛡️ Segurança** | [Scan com Nessus no Metasploitable](https://github.com/kassiaellfreig/Artigos-e-estudos-de-caso/blob/main/Relat%C3%B3rio%20t%C3%A9cnico%20(Nessus).pdf) | Auditoria de segurança; uso de scanner de vulnerabilidades automatizado; validação prática da Ghostcat (CVE-2020-1938) |
+| **🛡️ Segurança** | [Scan com Nikto](https://github.com/kassiaellfreig/Artigos-e-estudos-de-caso/blob/main/analiseDeSegurancaWebComNikto.md) | Auditoria de cabeçalhos HTTP em site de apostas; identificação de riscos clickjacking/MITM |
